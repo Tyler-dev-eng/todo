@@ -4,11 +4,11 @@ A simple Flutter todo application with local data persistence using Hive databas
 
 ## Features
 
-- ✅ Add, complete, and delete tasks
-- 💾 Persistent local storage with Hive
-- 🎨 Yellow-themed Material Design UI
-- 📱 Cross-platform support (iOS, Android, Web, macOS, Linux, Windows)
-- 🔄 Swipe-to-delete functionality with flutter_slidable
+- Add, complete, and delete tasks
+- Persistent local storage with Hive
+- Yellow-themed Material Design UI
+- Cross-platform support (iOS, Android, Web, macOS, Linux, Windows)
+- Swipe-to-delete functionality with flutter_slidable
 
 ## Tech Stack
 
